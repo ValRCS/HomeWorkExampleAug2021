@@ -14,4 +14,6 @@ object Age100 extends App {
   val yearWhen100 =(age-yourAge+currentYear).round //another option, difference being this would round up from .5 to 1
 
   println(s"$userName, it will be year $yearWhen100 when you turn 100 years old!")
+
+  //solved the problem!
 }
